@@ -4,7 +4,7 @@ import com.example.demo.pojo.Person;
 
 import java.util.List;
 
-public interface PersonMappter {
+public interface PersonMapper {
     //添加信息
     int insertPerson(Person person);
     //删除信息
